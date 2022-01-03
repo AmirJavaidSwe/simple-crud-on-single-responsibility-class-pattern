@@ -11,3 +11,5 @@
     6. php artisan migrate:fresh --seed
     
     7. set url in APP_URL in .env
+    
+    8. php artisan serve
